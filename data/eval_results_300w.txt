@@ -1,0 +1,56 @@
+Question: Who was Albert Einstein?
+Retrieved chunks:
+  [1] Physics
+      discoveries were made in many fields of science. The laws of classical physics are good enough to study objects that move much slower than the speed of light, and are not microscopic. When scientists first studied quantum mechanics, they had to create a new set of laws, which was the start of modern physics. Modern physics As scientists researched particles, they discovered what classical mechanic...
+  [2] Physics
+      example, theoretical physicists use mathematics and numerical analysis and statistics and probability and computer software in their work. Experimental physicists develop instruments and techniques for collecting data, using engineering and computer technology and many other fields of technology. Often the tools from these other areas are not quite appropriate for the needs of physics, and need to...
+  [3] String theory
+      stated, Einstein's equations predict what is occurring—or did occur or will occur—anywhere in the universe. The popularized notion that relative in Einstein's theory suggests subjective or arbitrary was to some regret of Einstein, who later thought he ought have to named it general theory. Cosmology The electromagnetic field's messenger particles, photons, carry an image timelessly across the univ...
+Answer: Albert Einstein was a physicist who developed the theory of special relativity and the general theory of relativity.
+
+================================================================================
+Question: What is the capital of France?
+Retrieved chunks:
+  [1] France
+      year. France was one of the first members of the European Union, and has the largest land area of all members. It is also a founding member of the United Nations, and a member of the Francophonie, the G8, NATO, and the Latin Union. It is one of the five permanent members of the United Nations Security Council. France has the largest number of nuclear weapons with active warheads, and the largest n...
+  [2] France
+      France ( or ; ), officially the French Republic (, ), is a country in Western Europe. It also includes various departments and territories of France overseas. Mainland France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. It is sometimes referred to as L’Hexagone ("The Hexagon") because of the shape of its territory. France is...
+  [3] France
+      of the year. It is in the marine west coast climate region. In the east, winters are cold and the weather is good. Summers are hot and stormy. In the south, winters are cool and wet. Summers are hot and dry. The north has a temperate climate similar to that of the United Kingdom and other Northern European countries. France has the second-largest exclusive economic zone (EEZ) in the world. It cove...
+Answer: Paris.
+
+================================================================================
+Question: What is photosynthesis?
+Retrieved chunks:
+  [1] Plant
+      Plants are one of five big groups (kingdoms) of living things. They are autotrophic eukaryotes, which means they have complex cells, and make their own food. Usually, they cannot move (not counting growth). Plants include familiar types such as trees, herbs, bushes, grasses, vines, ferns, mosses, and green algae. The scientific study of plants, known as botany, has identified about 391,000 extant ...
+  [2] Plant
+      = Chlorine (osmosis and ion balance) Fe = Iron (photosynthesis ans enzyme co-factor) B = Boron (sugar transport and cell division) Mn = Manganese (building chloroplasts) Na = Sodium (various) Zn = Zinc (activator to many enzymes) Cu = Copper (photosynthesis) Ni= Nickel (an enzyme) Mo = Molybdenum (enzyme co-factors) Roots The roots of plants perform two main functions. First, they anchor the plant...
+  [3] Tree
+      dioxide and give out oxygen with sunlight to form sugars. This is the opposite of what animals do in respiration. Plants also do some respiration using oxygen the way animals do. They need oxygen as well as carbon dioxide to live. Trees are renewable resources because, if cut down, other trees can grow in their place. Parts of trees The parts of a tree are the roots, trunk(s), branches, twigs and ...
+Answer: Photosynthesis is the process by which plants use sunlight, water and carbon dioxide to make their own food. The food is stored as sugar in the leaves, stems and roots of the plant. Photosynthesis also releases oxygen into the air, which is essential for animals to breathe. Photosynthesis is the main source of energy for most living things on Earth.
+
+
+
+================================================================================
+Question: When did World War II end?
+Retrieved chunks:
+  [1] Cold War
+      Republics of Ukrainian SSR, Armenian SSR, Azerbaijan SSR and Georgian SSR. World War Two The start of the Cold War in 1947 was caused by a belief that all governments would become either communist or capitalist. The Western Allies feared that the Soviet Union would spread communism to the rest of Europe and was very concerned that Soviet agents had learnt how to make atomic bombs after the war. Bo...
+  [2] September
+      Tallinn, Estonia Vilnius, Lithuania Selection of Historical Events September 1 1715: The reign of Louis XIV of France ends with his death after 72 years on the throne. September 1 1914: Martha, the last Passenger Pigeon, dies, making her species extinct. September 1 1939: Nazi Germany invades Poland, starting World War II. September 1 1969: Muammar al-Gaddafi takes power in Libya, in a coup. Septe...
+  [3] Japan
+      invade the countries next to it. It invaded and annexed Ryukyu Kingdom, Taiwan, and Korea. It had wars with China and Russia: the First Sino-Japanese War, the Boxer Rebellion, the Russo-Japanese War, World War I and Siberian Intervention. In 1918, World War I allowed Japan, which joined the side of the victorious Allies, to capture German possessions in the Pacific and in China. which grew to beco...
+Answer: September 2 1945.
+
+================================================================================
+Question: What is the Great Wall of China?
+Retrieved chunks:
+  [1] Beijing
+      Beijing include: The Great Wall of China (Chángchéng), in the mountains between Beijing and the grasslands of Mongolia The Forbidden City (Gùgōng), the most important home of the emperors of Ming and Qing China Tian'anmen Square (Tiān'ānmén Guǎngchǎng), surrounded by China's most important government buildings and museums Jingshan & Beihai Parks, the hill overlooking the Forbidden City and the lak...
+  [2] Wall
+      A wall is a vertical dividing surface. It divides space in buildings into rooms or protects buildings. It is usually made of stone or brick. Walls have two main purposes: to support the top part of buildings, and to divide space, giving protection from invasion, escape, and weather. Before powerful artillery was invented, many cities had protective walls. Since they are not suitable for defense an...
+  [3] China
+      China ( Pinyin: Zhōngguó) is a cultural region, an ancient civilization, and a nation in East Asia. The official name is People's Republic of China or PRC. The last Chinese Civil War (19271949) resulted in two different political powers today: The Republic of China (ROC) (since 1911), commonly known as China since 1 January, 1911 to 25 October, 1971. Now commonly known as Taiwan, has control over ...
+Answer: The Great Wall of China is a wall that divides space in buildings into rooms or protects buildings. It is usually made of stone or brick. Walls have two main purposes: to support the top part of buildings, and to divide space, giving protection from invasion, escape, and weather. Before powerful artillery was invented, many cities had protective walls. Since they are not suitable for defense any more, most city walls have been removed. The term "the Wall" usually referred to the Berlin Wall, built during the Cold War, which fell in 1989, but may also refer to the Pink Floyd album of the same name. Sealing people behind walls, in the form of immurement has historically been a method of human sacrifice and punishment. Retaining wall A retaining wall is a structure made to hold soil from collapsing. It is made in special areas for any other construction work, such as farming or road making. Types of retaining wall are: Anchored wall Cantilever wall Gravity wall Piling wall Main type of walls Load Bearing Wall is a structural element. It carries the weight of a house from the roof and upper floors, all the way to the foundation. It supports structural members like beams, slab and walls on above floors. Non-Load Bearing Wall doesn't help
+================================================================================

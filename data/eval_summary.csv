@@ -1,0 +1,11 @@
+run,id,question,retrieved_sources,retrieval_quality,answer_verdict,grounded,outcome
+300w,1,Who was Albert Einstein?,Physics; Physics; String theory,weak,correct,no,correct_ungrounded
+300w,2,What is the capital of France?,France; France; France,partial,correct,no,correct_ungrounded
+300w,3,What is photosynthesis?,Plant; Plant; Tree,good,correct,yes,grounded_correct
+300w,4,When did World War II end?,Cold War; September; Japan,weak,correct,no,correct_ungrounded
+300w,5,What is the Great Wall of China?,Beijing; Wall; China,weak,wrong,no,wrong
+175w,1,Who was Albert Einstein?,Physics; Physics; Physics,good,partial,yes,grounded_partial
+175w,2,What is the capital of France?,France; France; France,partial,correct,no,correct_ungrounded
+175w,3,What is photosynthesis?,Plant; Plant; Life,good,correct,yes,grounded_correct
+175w,4,When did World War II end?,Cold War; September; Italy,good,wrong,yes,wrong
+175w,5,What is the Great Wall of China?,Beijing; Beijing; Wall,good,correct,yes,grounded_correct

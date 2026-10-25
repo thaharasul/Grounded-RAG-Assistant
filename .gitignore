@@ -1,0 +1,14 @@
+db/
+data/*
+!data/eval_results.txt
+!data/eval_results_300w.txt
+!data/eval_summary.csv
+!data/eval_summary.png
+.venv/
+__pycache__/
+.DS_Store
+*.pyc
+.idea/
+.pytest_cache/
+# local-only working notes
+CLAUDE.md
